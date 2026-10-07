@@ -1,4 +1,4 @@
-## Welcome to my page!
+## Hello, I'm Sara Tîrnovan 
 I am a Computer Science student at UBB in Cluj-Napoca.
 
 ### Tech stack & Tools
